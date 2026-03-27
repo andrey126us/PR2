@@ -1,4 +1,4 @@
-package com.example.layoutslabsankov; // Убедитесь, что имя пакета совпадает с вашим
+package com.example.layoutslabsankov; 
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
